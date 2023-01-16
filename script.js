@@ -1,0 +1,12 @@
+let nameOfCountry = "Georgia";
+let continent = "Europe";
+let order =  3800000;
+let thisCountryIsAnIsland = false;
+console.log("Georgia");
+console.log(nameOfCountry);
+console.log("Europe");
+console.log(continent);
+console.log(3800000);
+console.log(order);
+console.log(false);
+console.log(thisCountryIsAnIsland);
