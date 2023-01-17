@@ -1,7 +1,7 @@
-let nameOfCountry = "Georgia";
-let continent = "Europe";
-let order =  3800000;
-let thisCountryIsAnIsland = false;
+const nameOfCountry = "Georgia";
+const continent = "Europe";
+const order =  3800000;
+const thisCountryIsAnIsland = false;
 console.log("Georgia");
 console.log(nameOfCountry);
 console.log(typeof nameOfCountry);
